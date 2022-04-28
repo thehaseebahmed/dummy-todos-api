@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "Create a work item for John to implement Sonar in our CI/CD pipelines"
+    },
+    {
+      "title": "Followup on the 7pace refund"
+    }
+  ],
+  "users": [
+    {
+      "username": "thehaseebahmed",
+      "password": "demo_p@ssw0rd"
+    }
+  ],
+}
